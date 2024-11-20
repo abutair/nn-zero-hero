@@ -49,3 +49,5 @@ Thumbs.db
 *.pyo
 *.pyd
 .Python
+
+arabic_raw_sample.txt
