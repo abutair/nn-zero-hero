@@ -1,0 +1,51 @@
+# Conda environment
+.conda/
+conda/
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log files
+log/
+*.log
+
+# IPython Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# PDF files in Testing directory
+Testing/*.pdf
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local development settings
+*.local
+
+# Testing cache
+.pytest_cache/
+.coverage
+
+# Specific project files
+*.pyc
+*.pyo
+*.pyd
+.Python
